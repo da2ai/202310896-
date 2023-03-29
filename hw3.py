@@ -1,7 +1,3 @@
-def sale_rate(rate):
-  global get_fixed_price
-  rate=get_fixed_price
-
 def sale_price(prompt):
   s=int(input(prompt))
   return s
